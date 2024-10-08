@@ -995,15 +995,6 @@ const styles = StyleSheet.create({
 
 
 
-
-
-
-
-
-
-
-
-
 });
 
 export default ChatScreen;
